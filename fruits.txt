@@ -3,3 +3,8 @@ Banana
 Cherry
 Dragon Fruit
 ElderBerry
+mango
+durian 
+blueberry
+peach
+strawberry
