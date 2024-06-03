@@ -3,3 +3,8 @@ chilly
 spanich
 soyabean
 potato
+pumpkin
+pea
+carrot
+onion 
+cabbage
